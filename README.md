@@ -46,4 +46,4 @@ Full license: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 ## Dataset Creator
 
-This dataset was created by [empty0845](https://github.com/empty0845). Feel free to check out my GitHub page for more projects and updates.
+- [empty0845](https://github.com/empty0845).
