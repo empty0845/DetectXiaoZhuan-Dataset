@@ -26,7 +26,7 @@ Each image is accompanied by a corresponding annotation file in YOLO format (one
 ## Dataset Generation and Labeling
 
 - **Font Used**: The dataset uses the font *全字庫說文解字.ttf*.
-- **Generation Method**: The images in the dataset were generated using the Python `wordcloud` package, with the *全字库说文解字.ttf* font to simulate the look of stone rubbings.
+- **Generation Method**: The images in the dataset were generated using the Python `wordcloud` package, with the *全字庫說文解字.ttf* font to simulate the look of stone rubbings.
 - **Labeling Tool**: The annotations were manually created using the *labelImg* tool, a graphical image annotation tool for object detection.
 
 ## YOLOv5 Usage
