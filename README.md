@@ -44,6 +44,6 @@ Under the condition that you provide appropriate credit, indicate if changes wer
 
 Full license: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
-## Dataset Creator
+## Dataset Creators
 
 - [empty0845](https://github.com/empty0845).
