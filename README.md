@@ -43,7 +43,3 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 Under the condition that you provide appropriate credit, indicate if changes were made, and provide a link to the license. 
 
 Full license: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
-
-## Dataset Creators
-
-- [empty0845](https://github.com/empty0845)
