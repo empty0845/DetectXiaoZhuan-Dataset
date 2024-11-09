@@ -46,7 +46,7 @@ Full license: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 ## Contributors
 
-This dataset was contributed by the following individuals:
+This dataset was contributed by the following contributors:
 
 - [empty0845](https://github.com/empty0845)
 - [SparseMatric-1](https://github.com/SparseMatric-1)
