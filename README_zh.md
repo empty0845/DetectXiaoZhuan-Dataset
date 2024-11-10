@@ -2,7 +2,7 @@
 
 [English README available here](README.md)
 
-**DetectXiaoZhuan-Dataset** 旨在通过 **YOLOv5** 目标检测框架训练和评估 **detect_xiaozhuan** 模型。该数据集模拟了识别**石碑拓片**上的**小篆**的任务。图像以黑色背景和白色文字生成，以模拟**拓片**效果，使小篆更加显眼。
+**DetectXiaoZhuan-Dataset** 旨在通过 **YOLOv5** 目标检测框架训练和评估 **detect_xiaozhuan** 模型。该数据集模拟了识别**石碑拓片**上的**小篆**的任务。图像以黑色背景和白色文字生成，以模拟**拓片**效果。
 此数据集包含**30个篆字**，适用于小篆的文本识别和分类任务。
 
 ## 数据集概览
