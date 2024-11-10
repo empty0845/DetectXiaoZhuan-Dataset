@@ -1,5 +1,7 @@
 # DetectXiaoZhuan-Dataset
 
+[中文版本 README 在此查看](README_zh.md)
+
 The **DetectXiaoZhuan-Dataset** is designed for training and evaluating the **detect_xiaozhuan** model with the **YOLOv5** object detection framework. This dataset simulates the task of recognizing **small seal script (小篆)** inscriptions, commonly found in **stone inscriptions**. The images are generated with a black background and white characters to simulate the effect of a **rubbing (拓片)** of seal script.
 The dataset includes **30 unique characters** from the small seal script, making it suitable for text recognition and classification tasks in ancient Chinese inscriptions.
 
